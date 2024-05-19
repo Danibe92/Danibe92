@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danibe92
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m 14 years old
+- 💞️ I’m 16 years old
 -  📫 How to reach me (don't reach me)
 
 <!---
